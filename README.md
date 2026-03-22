@@ -71,14 +71,11 @@ A local-first Python prototype for spreadsheet-based VAT record preparation in U
 
 ---
 
-## GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ricardo-zihao-lin&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ricardo-zihao-lin&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-zihao-lin&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ricardo-zihao-lin&theme=transparent&hide_border=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-zihao-lin&theme=transparent&hide_border=true&layout=compact)
-
-</div>
 
 ---
 

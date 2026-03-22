@@ -12,9 +12,8 @@ Building practical, reliable software with a focus on data workflows, validation
 
 </div>
 
----
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmhrazYyMTNwMTZnZDBmZjYyazNoMnFtdnZkd3c1eGJkOWR4cGtkbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 ## About Me
 

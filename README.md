@@ -88,4 +88,4 @@ A local-first Python prototype for spreadsheet-based VAT record preparation in U
 ## Contact
 
 - GitHub: [ricardo-zihao-lin](https://github.com/ricardo-zihao-lin)
-- LinkedIn: add your LinkedIn here
+- LinkedIn: [add your LinkedIn here](https://www.linkedin.com/in/ricardo-zihao-lin/)

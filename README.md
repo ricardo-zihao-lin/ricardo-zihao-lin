@@ -8,7 +8,7 @@ Building practical, reliable software with a focus on data workflows, validation
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ricardo-zihao-lin&style=flat-square)](https://github.com/ricardo-zihao-lin)
 [![GitHub](https://img.shields.io/badge/GitHub-ricardo--zihao--lin-181717?style=flat-square&logo=github)](https://github.com/ricardo-zihao-lin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Link-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-zihao-lin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardo--zihao--lin-0A66C2?...)](https://www.linkedin.com/in/ricardo-zihao-lin/)
 
 </div>
 
